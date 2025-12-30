@@ -8,7 +8,7 @@ using System.Linq;
 
 namespace System.CommandLine.Help;
 
-internal partial class HelpBuilder
+public partial class HelpBuilder
 {
     /// <summary>
     /// Provides default formatting for help output.
